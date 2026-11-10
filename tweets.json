@@ -1,16 +1,7 @@
 {
- "_instrucciones": "Pega entre comillas el enlace de cada tweet (x.com/.../status/...) en la lista de su trader, separados por comas. Solo se muestran los que hablan de cripto.",
- "brandt": [],
- "hayes": [],
- "pal": [],
- "saylor": [
-  "https://x.com/saylor/status/2010809374424645842"
- ],
- "alden": [],
- "ju": [],
- "rekt": [],
- "poppe": [],
- "melker": [],
- "ansem": [],
- "cred": []
+ "_instrucciones": "Pega entre comillas el enlace de cada tweet (x.com/.../status/...) en la lista de su cuenta, separados por comas. Solo se muestran los que hablan de cripto.",
+ "cdecripto": [],
+ "cryptotony": [],
+ "watcherguru": [],
+ "eliz": []
 }
